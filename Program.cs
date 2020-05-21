@@ -202,6 +202,8 @@ namespace ConsoleApp1
                                 Console.WriteLine("You took 15 minute.");
                                 locationNow = LocationManager.WestBeach;
                                 break;
+                            case "2":
+                                break;
                             default:
                                 goto LookAround;
                         }
