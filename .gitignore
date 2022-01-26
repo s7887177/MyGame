@@ -1,4 +1,3 @@
 *.exe
 libgit2/
 *~
-main4.cpp
