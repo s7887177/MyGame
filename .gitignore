@@ -1,3 +1,4 @@
 *.exe
 libgit2/
 *~
+/obj/*
