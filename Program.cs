@@ -217,8 +217,6 @@ namespace ConsoleApp1
             }
             goto LookAround;
 
-        LoadGame:
-
         End:
             Console.Clear();
             Console.WriteLine("Thanks for your playing!");
